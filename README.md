@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RokkoD or Daniel Rodrigues
 - 👀 I’m interested in ... Learning
-- 🌱 I’m currently learning ... JavaScript and Git
+- 🌱 I’m currently learning ...HTML, CSS, JavaScript and Git
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... @rokko_daniel
 
